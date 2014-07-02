@@ -1,0 +1,4 @@
+gbs
+===
+
+GameBattleStats Script
